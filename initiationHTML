@@ -1,0 +1,26 @@
+<DOCTYPE!>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>adidas</title>
+<body>
+	<h1>bASKET</h1>
+	/--->h1 une fois par page/
+	<h2>titre 2</h2>
+	<h3>titre 3</h3>
+	<h4>titre 4</h4>
+	<h5>titre 5</h5>
+	<h6>titre 6</h6>
+
+	<p> lorem.....<br>....lorem</p>
+
+<b>texte en gras: balise bold</b>
+<u>texte souligné</u>
+<s>texte rayé</s>
+<p>paris 17<sup>ème</sup></p>
+<p>paris 17<sup>ème</sup></p>
+<hr> --->trait fin discontinu
+
+
+</body>
+</html>
